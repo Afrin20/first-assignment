@@ -1,0 +1,112 @@
+body{
+    font-family: 'Poppins', sans-serif; 
+margin: 0%;
+ }
+ h1{
+    font-size:40;  
+ }
+ .section-first{
+    text-size-adjust: 33;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+    background-image: url(images/donation1.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 70%;
+ }
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+  color:white ;
+  font-weight: 700;
+}
+.second-part{
+    text-align: center;
+    color: black;
+}
+.donate-today{
+    display: flex;
+    text-align:center;
+    
+} 
+.box-model{
+    background-color: lightgrey;
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+}
+#second-box{
+    background-color: pink;
+    width: 300px;
+    border: 5px solid rgb(170, 77, 93);
+    padding: 50px;
+    margin: 10px;
+}
+#amount-taka{
+    text-align: center;
+    text-decoration: underline;
+    
+}
+#donate-now{
+ 
+    text-decoration:none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+  color:white ;
+  font-weight: 700;
+  
+}
+#food{
+    background-color: lightgrey;
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+}
+#shelter{
+    background-color: pink;
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+}
+#education{
+    background-color: wheat;
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 80px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    background-image: linear-gradient(rgb(153, 125, 73),rgb(238, 55, 23));
+    padding: 10px 40px;
+    border-radius: 5px;
+  color:white ;
+  font-weight: 700;
+}
+
+.top-banner{
+    background-image: url( images/top-banner.png);
+    background-repeat: no-repeat;
+ }
+
+ .second-section{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
