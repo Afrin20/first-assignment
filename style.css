@@ -51,15 +51,17 @@ margin: 0%;
     
 }
 #donate-now{
- 
     text-decoration:none;
+    padding: 7px 40px;
     background-color: orange;
-    padding: 10px 40px;
     border-radius: 5px;
   color:white ;
   font-weight: 700;
-  
 }
+#donation-padding{
+    padding-left :44%;
+}
+
 #food{
     background-color: lightgrey;
     width: 300px;
@@ -110,3 +112,23 @@ margin: 0%;
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.get-updates{   
+    display: flex;
+    text-align:center;
+    padding-left: 30%;
+}
+#email-button{
+ text-decoration: none;
+    background-color: rgb(177, 145, 145);
+    padding: 7px 100px;
+  color:white ;
+  font-weight: 700;
+}
+#subscribtion-button{
+    text-decoration: none;
+       background-color: red;
+       padding: 7px 40px;
+     color:white ;
+     font-weight: 700;
+   }
